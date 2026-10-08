@@ -1,0 +1,69 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: linear-gradient(to right, #FFEDB2 , #FFC956);
+}
+
+.logo{
+    margin-left: 4em;
+
+}
+
+main{
+    display: flex;
+}
+
+h1{
+    font-size: 3.5rem;
+    width: 85%;
+    margin-top: 1.8em;
+    margin-left: 1em;
+}
+
+strong{
+    color: #BB2B30;
+    text-transform: uppercase;
+}
+
+p{
+    margin-left: 3.5em;
+    margin-top: 2rem;
+    color: rgb(70, 67, 67);
+
+}
+
+form{
+    margin-left: 3.5em;
+}
+
+.upper{
+    text-transform: uppercase;
+}
+
+.inputSmile{
+    background-color: transparent;
+    border: 1px solid rgb(70, 67, 67);
+    margin-top: 1rem;
+    padding-top: 1em;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    border-radius: 7px;
+}
+
+.buscar{
+    margin-left: 10px;
+    margin-top: 1rem;
+    padding-top: 1em;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 7px;
+    border: none;
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+}
